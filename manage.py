@@ -3,6 +3,7 @@
 import os
 import sys
 
+#date:2020.8.6
 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'zxweb.settings')
