@@ -5,3 +5,9 @@ from django.shortcuts import render
 # 添加 index 函数，返回 index.html 页面
 def index(request):
     return render(request,'index.html')
+
+def login(request):
+    pass
+
+def request(request):
+    pass
